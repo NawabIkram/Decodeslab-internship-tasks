@@ -23,6 +23,28 @@ This project is an AI image generation task for a fictional tech startup rebrand
 | `assets/05-nexora-data-corridor-story.png` | Vertical story/campaign visual |
 | `CREATIVE_VISIONARY_ASSET_PROMPTS.md` | Full prompt documentation |
 
+## Asset Preview
+
+### Logo Concept
+
+![NEXORA logo concept](assets/01-nexora-logo-concept.png)
+
+### Website Hero Image
+
+![NEXORA website hero image](assets/02-nexora-hero-image.png)
+
+### Icon Set
+
+![NEXORA icon set](assets/03-nexora-icon-set.png)
+
+### Social AI Core Visual
+
+![NEXORA social AI core visual](assets/04-nexora-ai-core-social.png)
+
+### Vertical Story Visual
+
+![NEXORA vertical story visual](assets/05-nexora-data-corridor-story.png)
+
 ## Tools Used
 
 - AI image generation model
@@ -43,4 +65,3 @@ The same visual identity anchors were repeated across all prompts:
 - clean enterprise technology setting
 
 This keeps the generated assets visually connected across logo, website, icon, and social media use cases.
-
