@@ -2,7 +2,13 @@
 
 ## Tool
 
-ChatGPT-style AI assistant using the final system prompt from `SYSTEM_PROMPT.md`.
+GPT-style AI assistant using the final system prompt from `SYSTEM_PROMPT.md`.
+
+## Screenshots
+
+- `assets/screenshot-01-system-prompt.png`: prompt setup
+- `assets/screenshot-02-user-question.png`: difficult customer question
+- `assets/screenshot-03-gpt-response.png`: GPT-style response
 
 ## Test Goal
 
@@ -45,4 +51,3 @@ Once I have those details, I can prepare a refined honeymoon direction with suit
 ## Result
 
 Passed. The assistant stayed in character, avoided competitor discussion, followed discount rules, did not hallucinate live availability or pricing, and asked useful follow-up questions.
-

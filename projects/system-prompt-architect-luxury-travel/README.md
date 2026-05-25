@@ -18,7 +18,7 @@ A high-end travel agency wants to automate customer inquiries. The assistant mus
 
 ## AI Tool Used
 
-The prompt was tested using a ChatGPT-style AI workflow. The test transcript is documented in `AI_TOOL_TEST_TRANSCRIPT.md`, and a screenshot-style proof image is included in `assets/prompt-test-screenshot.png`.
+The prompt was tested using a GPT-style AI workflow. The test transcript is documented in `AI_TOOL_TEST_TRANSCRIPT.md`, and three chat-style screenshots are included in the `assets` folder.
 
 ## Deliverables
 
@@ -27,11 +27,23 @@ The prompt was tested using a ChatGPT-style AI workflow. The test transcript is 
 | `SYSTEM_PROMPT.md` | Final persona, constraints, tone, and business rules |
 | `FEW_SHOT_EXAMPLES.md` | Example user inputs and ideal assistant replies |
 | `AI_TOOL_TEST_TRANSCRIPT.md` | Test conversation showing difficult inquiry handling |
-| `assets/prompt-test-screenshot.png` | Screenshot-style documentation proof |
+| `assets/screenshot-01-system-prompt.png` | Screenshot showing the prompt setup |
+| `assets/screenshot-02-user-question.png` | Screenshot showing the difficult test question |
+| `assets/screenshot-03-gpt-response.png` | Screenshot showing the GPT-style response |
 
-## Screenshot
+## Screenshots
 
-![Prompt test screenshot](assets/prompt-test-screenshot.png)
+### 1. System Prompt Setup
+
+![System prompt setup](assets/screenshot-01-system-prompt.png)
+
+### 2. Test Question
+
+![Difficult customer test question](assets/screenshot-02-user-question.png)
+
+### 3. GPT-Style Response
+
+![GPT-style response](assets/screenshot-03-gpt-response.png)
 
 ## Success Criteria
 
@@ -41,4 +53,3 @@ The prompt was tested using a ChatGPT-style AI workflow. The test transcript is 
 - Discounts are offered only under allowed conditions.
 - Difficult customers receive calm, professional responses.
 - Few-shot examples guide the assistant toward ideal behavior.
-
