@@ -19,3 +19,16 @@ Deliverables:
 - Vertical story campaign visual
 - Prompt documentation with negative prompts, aspect ratios, lighting style, and consistency method
 
+### 2. Knowledge Analyst: RAG Concepts
+
+Path: `projects/knowledge-analyst-rag-concepts`
+
+This project simulates a Retrieval-Augmented Generation workflow for legal document intelligence. It uses a fictional contract, citation-first prompts, a summary dashboard, and sample Q&A to show how AI can answer document questions without hallucinating.
+
+Deliverables:
+
+- Fictional legal contract with page and section labels
+- RAG workflow explanation
+- Prompt documentation for retrieval, Q&A, summaries, and hallucination prevention
+- Summary dashboard for risks, dates, stakeholders, and key clauses
+- Sample Q&A with page/section citations
