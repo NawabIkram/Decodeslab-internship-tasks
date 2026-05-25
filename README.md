@@ -46,3 +46,18 @@ Deliverables:
 - Prompt documentation for retrieval, Q&A, summaries, and hallucination prevention
 - Summary dashboard for risks, dates, stakeholders, and key clauses
 - Sample Q&A with page/section citations
+
+### 4. AI Safety & Bias Audit
+
+Path: `projects/ai-safety-bias-audit`
+
+This project performs a red-team style audit of an AI assistant by testing unsafe advice, jailbreak attempts, and demographic bias risks. It documents test cases, observed behavior, findings, and a practical guardrails framework.
+
+Deliverables:
+
+- Professional AI audit report
+- Safety and bias test matrix
+- Red-team prompt examples
+- Findings and risk ratings
+- Recommended guardrails framework
+- Screenshot-style evidence
